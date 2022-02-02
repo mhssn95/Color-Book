@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Book" parent="android:Theme.Black.NoTitleBar.Fullscreen">
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+</resources>
